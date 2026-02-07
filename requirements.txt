@@ -5,5 +5,4 @@ plotly
 openai 
 python-dotenv 
 qdrant-client 
-streamlit-audiorecoreder 
 pydub 
