@@ -2,7 +2,4 @@ pandas
 pycaret
 streamlit 
 plotly
-openai 
-python-dotenv 
-qdrant-client 
-pydub 
+

@@ -1,4 +1,3 @@
-#środowisko m7zad1
 import json
 import streamlit as st
 import pandas as pd  # type: ignore
